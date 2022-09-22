@@ -9,12 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-base": "^20.2.48",
+    "@syncfusion/ej2-buttons": "^20.2.46",
+    "@syncfusion/ej2-icons": "^20.2.45",
+    "@syncfusion/ej2-inputs": "^20.2.48",
+    "@syncfusion/ej2-lists": "^20.2.46",
+    "@syncfusion/ej2-navigations": "^20.2.50",
+    "@syncfusion/ej2-popups": "^20.2.49",
+    "@syncfusion/ej2-react-richtexteditor": "^20.2.50",
+    "@syncfusion/ej2-richtexteditor": "^20.2.50",
+    "@syncfusion/ej2-splitbuttons": "^20.2.45",
     "next": "12.3.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/node": "18.7.18",
+    "@types/react": "18.0.20",
     "eslint": "8.23.1",
-    "eslint-config-next": "12.3.1"
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.3"
   }
 }
